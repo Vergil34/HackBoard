@@ -1,7 +1,7 @@
 # ButtonBox
 Hack Club Blueprint Starter Project. This is my first time working in-depth with creating a PCB or CADing something to actually bring it to life, so it was definitely a fun experience. I plan to use this as a small button box for sim racing, but it can probably be easily reprogrammed to be a regular macro pad.
 
-<img src=assets/Whole.png alt="Final" width="800"/>
+<img src=assets/Whole.png alt="Whole" width="800"/>
 
 
 ## Features:
